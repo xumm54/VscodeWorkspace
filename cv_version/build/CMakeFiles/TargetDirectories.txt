@@ -1,0 +1,3 @@
+/home/xu/桌面/practice/cv_version/build/CMakeFiles/cv_version.dir
+/home/xu/桌面/practice/cv_version/build/CMakeFiles/edit_cache.dir
+/home/xu/桌面/practice/cv_version/build/CMakeFiles/rebuild_cache.dir
